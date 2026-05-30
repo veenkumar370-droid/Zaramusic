@@ -1,5 +1,5 @@
 README.md<h2 align="center">
-           ──「  𝐋𝐎𝐊𝐄𝐒𝐇 𝓧 𝐌𝐔𝐒𝐈𝐂 」──
+           ──「  𝗔𝗧𝗨𝗟 𝓧 𝐌𝐔𝐒𝐈𝐂 」──
 </h2>
 
 <a href="https://www.gambaranimasi.org/cat-bintang-290.htm"><img src="https://www.gambaranimasi.org/data/media/280/animasi-bergerak-bintang-0157.gif" border="0" alt="animasi-bergerak-bintang-0157" /></a>
@@ -8,7 +8,7 @@ README.md<h2 align="center">
 <a href="https://www.gambaranimasi.org/cat-bintang-290.htm"><img src="https://www.gambaranimasi.org/data/media/280/animasi-bergerak-bintang-0157.gif" border="0" alt="animasi-bergerak-bintang-0157" /></a>
 
 <p align="center">
-  <img src="https://telegra.ph/file/e332989a6945cac267acb.jpg">
+  <img src="https://ibb.co/qF3G9Sg5">
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@ README.md<h2 align="center">
 <a href="https://github.com/WCGKING/LOKESHXMUSIC/commits/WCGKING"> <img src="https://img.shields.io/github/last-commit/WCGKING/LOKESHXMUSIC?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 
 <p align="center">
-  <img src="https://telegra.ph/file/2ca9afbd8cbf69b6ea49b.jpg">
+  <img src="https://ibb.co/KxTCKgj9">
 </p>
 
 <b> 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦 </b>
@@ -88,4 +88,4 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <a href="https://github.com/WCGKING"> <img src="https://img.shields.io/badge/WCGKING-black?style=for-the-badge&logo=github" alt="WCGKING" /> </a>
 
 
-- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʙʀᴀɴᴅᴇᴅ](https://github.com/WCGKING) ғᴏʀ [ʙʀᴀɴᴅᴇᴅ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/WCGKING/SYSTUM). </b>
+- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ 𝖠𝖳𝖴𝖫](https://github.com/WCGKING) ғᴏʀ [𝖠𝖳𝖴𝖫 ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/WCGKING/SYSTUM). </b>
